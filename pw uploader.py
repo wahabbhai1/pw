@@ -14,9 +14,9 @@ import requests
 from FastTelethon import upload_file
 
 # Configuration 
-API_ID = int(os.getenv("API_ID"))
-API_HASH = os.getenv("API_HASH")
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+API_ID = int(os.getenv("29490954"))
+API_HASH = os.getenv("dbd8f5af56b0f6e16327c20a84eece99")
+BOT_TOKEN = os.getenv("8411819528:AAFhDcZeRShyN1LVAsa_cvD_w8P7JCd051o")
 PING_URL = os.getenv("PING_URL", "")
 BASE_DIR = "PW_DOWNLOADS"
 MAX_PAIRS = 5 # Telegram message limit length limit supports upto 5 links 

@@ -11,7 +11,6 @@ from fastapi import FastAPI
 import threading
 import time
 import requests
-from FastTelethon import upload_file
 
 # Configuration 
 API_ID = int(os.getenv("29490954"))
